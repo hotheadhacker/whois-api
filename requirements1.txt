@@ -1,0 +1,2 @@
+python-whois@0.7.3 
+flask

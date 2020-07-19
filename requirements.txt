@@ -1,2 +1,10 @@
-python-whois@0.7.3 
-flask
+click==7.1.2
+Flask==1.1.2
+future==0.18.2
+gunicorn==20.0.4
+itsdangerous==1.1.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+python-whois==0.7.3
+Werkzeug==1.0.1
+whois==0.9.7
