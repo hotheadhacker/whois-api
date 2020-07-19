@@ -6,6 +6,11 @@ import datetime
 app = Flask(__name__)
 
 
+@app.route("/")
+def homepage():
+    return "Bad api access! use https://whois-api-server.herokuapp.com/example.com to access whois data <br> Made by api made by Salman Qureshi"
+
+
 @app.route("/<domain_name>")
 def hello(domain_name):
     # domain_name = request.args.get('domain_name')
