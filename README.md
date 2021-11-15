@@ -14,4 +14,4 @@ The server will respond with a json data
 
 ## example:
 
-https://whois-api-server.herokuapp.com/salmanually.com
+https://whois-api-server.herokuapp.com/isalman.xyz
